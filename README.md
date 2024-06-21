@@ -1,1 +1,3 @@
 # firstREPO
+
+learning new things
